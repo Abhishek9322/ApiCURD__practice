@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiCURD__practice.props" />
+</Project>

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|c:\\users\\abhishek kamble\\source\\repos\\apicurd__practice\\apicurd__practice\\migrations\\20250413044801_curdoprtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D53E47-F2AB-47EB-943D-40DAE5E15937}|ApiCURD__practice\\ApiCURD__practice.csproj|solutionrelative:apicurd__practice\\migrations\\20250413044801_curdoprtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ApiCURD__practice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:50:43.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiCURD__practice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T04:36:20.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\appsettings.json",
+              "RelativeToolTip": "ApiCURD__practice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T04:28:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Program.cs",
+              "RelativeToolTip": "ApiCURD__practice\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:28:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "ApiCURD__practice\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:23:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Model\\Product.cs",
+              "RelativeToolTip": "ApiCURD__practice\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:22:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250413044801_CURDOprtion.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Migrations\\20250413044801_CURDOprtion.cs",
+              "RelativeDocumentMoniker": "ApiCURD__practice\\Migrations\\20250413044801_CURDOprtion.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\ApiCURD__practice\\ApiCURD__practice\\Migrations\\20250413044801_CURDOprtion.cs",
+              "RelativeToolTip": "ApiCURD__practice\\Migrations\\20250413044801_CURDOprtion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:48:01.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
